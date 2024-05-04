@@ -38,4 +38,4 @@ To get started with the **Corpus** solution repository, follow these steps:
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](corpus.png)  <br>
+    ## Deliverables or Figures![additional_image](corpus.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
