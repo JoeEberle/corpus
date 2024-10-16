@@ -39,11 +39,8 @@ To get started with the **Corpus** solution repository, follow these steps:
  ![additional_image](corpus.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
